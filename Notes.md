@@ -8,4 +8,4 @@
  ### Step 3 : Check for unintentional cases where code might fail , such  as constraint on the input. [assert keyword]
 
 ## Recursion vs Iteration :
-- Iteration is faster than recursion , recursion is used where there is no overhead(both men=mory and space) , it's easy to code but takes up memory and slower , it can be used where time and memory are not concern and problem can be broken into smaller subproblems
+- Iteration is faster than recursion , recursion is used where there is no overhead(both menmory and space) , it's easy to code but takes up memory and slower , it can be used where time and memory are not concern and problem can be broken into smaller subproblems
