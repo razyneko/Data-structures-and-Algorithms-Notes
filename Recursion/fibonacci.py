@@ -8,3 +8,6 @@ def fibo(n):
         return fibo(n - 1) + fibo(n - 2)
     
 print(fibo(6))
+
+# it has worst complexity of O(2^n)
+# O(n)  space complexity --> height of recursive tree
